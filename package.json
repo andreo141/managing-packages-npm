@@ -1,7 +1,7 @@
 {
     "author": "andreo141",
     "description": "This is a simple project to learn how to use npm",
-    "keywords": ["npm","node","express"],
+    "keywords": ["npm","node","freecodecamp"],
     "name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
