@@ -7,9 +7,7 @@
     "name": "fcc-learn-npm-package-json",
 	"dependencies": {
         "package-name": "version",
-        "express": "4.14.0"
-    }, 
-    "devDependencies": {
+        "express": "4.14.0", 
 		"package-name": "@freeCodeCamp/example",
         "express": "1.1.0"
     },
