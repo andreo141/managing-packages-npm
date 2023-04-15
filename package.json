@@ -1,6 +1,7 @@
 {
     "author": "andreo141",
     "description": "This is a simple project to learn how to use npm",
+    "license": "MIT",
     "keywords": ["npm","node","freecodecamp"],
     "name": "fcc-learn-npm-package-json",
 	"dependencies": {
