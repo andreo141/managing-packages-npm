@@ -1,5 +1,6 @@
 {
     "author": "andreo141",
+    "version": "1.0.0",
     "description": "This is a simple project to learn how to use npm",
     "license": "MIT",
     "keywords": ["npm","node","freecodecamp"],
